@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "c5247313ad5fb298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GAEL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "882199a327e78c57",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PGHH.md",
+                "file": "GAEL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PGHH.md",
+                "file": "GAEL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PGHH.md"
+                "file": "GAEL.md"
               }
             }
           },
@@ -241,11 +253,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ade6e5356ffd9aea",
+  "active": "c5247313ad5fb298",
   "lastOpenFiles": [
+    "_attachments/Pasted image 20240331194630.png",
+    "PGHH.md",
+    "GAEL.md",
     "_attachments/Pasted image 20240331194509.png",
     "DMART.md",
-    "PGHH.md",
     "_attachments/Pasted image 20240331194027.png",
     "BSE.md",
     "_attachments/Pasted image 20240331193748.png",
@@ -258,7 +272,6 @@
     "_attachments/Pasted image 20240331192642.png",
     "_attachments/Pasted image 20240331192439.png",
     "_attachments/Pasted image 20240331192346.png",
-    "_attachments/Pasted image 20240331192254.png",
     "ACC.md",
     "_attachments",
     "consistency-report.md",
@@ -287,7 +300,6 @@
     "IPL/tda",
     "GREENLAM/GREENLAM.md",
     "_daily_checklist/2024-03-12.md",
-    "_daily_checklist/2024-03-11.md",
-    "_templates/Daily Trade Search.md"
+    "_daily_checklist/2024-03-11.md"
   ]
 }

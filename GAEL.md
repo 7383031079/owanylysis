@@ -1,0 +1,2 @@
+![](_attachments/Pasted%20image%2020240331194630.png)
+QIT TRADE NO ANY STRONG SUPPLY ZONE 
