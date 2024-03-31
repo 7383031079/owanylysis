@@ -1,0 +1,6 @@
+	![](_attachments/Pasted%20image%2020240331192254.png)  
+	NOTE  : QIT TRADE NO ANY SUPPLY ZONE
+	![](_attachments/Pasted%20image%2020240331192346.png)
+	NOTE : MIT TRADE NO ANY SUPPLY ZONE
+	![](_attachments/Pasted%20image%2020240331192439.png)
+	WIT TRADE NO ANY HIGHER TIME SUPPLY ZONE GO LONG
