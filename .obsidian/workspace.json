@@ -128,6 +128,18 @@
             }
           },
           {
+            "id": "9194fb8c637fd916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TATAPOWER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "882199a327e78c57",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBTC.md",
+                "file": "TATAPOWER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBTC.md",
+                "file": "TATAPOWER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBTC.md"
+                "file": "TATAPOWER.md"
               }
             }
           },
@@ -277,11 +289,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "924b7380603592ce",
+  "active": "9194fb8c637fd916",
   "lastOpenFiles": [
+    "_attachments/Pasted image 20240331195313.png",
+    "BBTC.md",
+    "TATAPOWER.md",
     "_attachments/Pasted image 20240331194936.png",
     "AJANTAPHARMA.md",
-    "BBTC.md",
     "_attachments/Pasted image 20240331194836.png",
     "GAEL.md",
     "_attachments/Pasted image 20240331194630.png",
@@ -297,7 +311,6 @@
     "_attachments/Pasted image 20240331193049.png",
     "_attachments/Pasted image 20240331192956.png",
     "_attachments/Pasted image 20240331192647.png",
-    "_attachments/Pasted image 20240331192642.png",
     "ACC.md",
     "_attachments",
     "consistency-report.md",
@@ -323,7 +336,6 @@
     "IPL/mtfa/_attachments",
     "IPL/tda/IPL - TDA - 2024-03-18.md",
     "IPL/tda/_attachments",
-    "IPL/tda",
-    "GREENLAM/GREENLAM.md"
+    "IPL/tda"
   ]
 }
