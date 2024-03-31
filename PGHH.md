@@ -1,0 +1,1 @@
+![](_attachments/Pasted%20image%2020240331194509.png)WIT NOT ANY STRONG SUPPLY ZONE
