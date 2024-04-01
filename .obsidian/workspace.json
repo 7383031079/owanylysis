@@ -133,7 +133,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TATAPOWER.md",
+                "file": "_daily_checklist/2024-04-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dac84c07231d55d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_daily_checklist/AARTI IND.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TATAPOWER.md",
+                "file": "_daily_checklist/AARTI IND.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TATAPOWER.md",
+                "file": "_daily_checklist/AARTI IND.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TATAPOWER.md"
+                "file": "_daily_checklist/AARTI IND.md"
               }
             }
           },
@@ -289,11 +301,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9194fb8c637fd916",
+  "active": "5dac84c07231d55d",
   "lastOpenFiles": [
+    "_daily_checklist/_attachments/Pasted image 20240401083958.png",
+    "_daily_checklist/_attachments",
+    "_daily_checklist/2024-04-01.md",
+    "_daily_checklist/AARTI IND.md",
+    "TATAPOWER.md",
     "_attachments/Pasted image 20240331195313.png",
     "BBTC.md",
-    "TATAPOWER.md",
     "_attachments/Pasted image 20240331194936.png",
     "AJANTAPHARMA.md",
     "_attachments/Pasted image 20240331194836.png",
@@ -310,7 +326,6 @@
     "ABB.md",
     "_attachments/Pasted image 20240331193049.png",
     "_attachments/Pasted image 20240331192956.png",
-    "_attachments/Pasted image 20240331192647.png",
     "ACC.md",
     "_attachments",
     "consistency-report.md",
@@ -332,10 +347,7 @@
     "ATUL/mtfa",
     "ATUL/tda",
     "ATUL",
-    "IPL/IPL.md",
     "IPL/mtfa/_attachments",
-    "IPL/tda/IPL - TDA - 2024-03-18.md",
-    "IPL/tda/_attachments",
-    "IPL/tda"
+    "IPL/tda/_attachments"
   ]
 }
