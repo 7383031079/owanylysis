@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_checklist/5PAISA.md",
+                "file": "ABB.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_checklist/5PAISA.md",
+                "file": "ABB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_checklist/5PAISA.md",
+                "file": "ABB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_checklist/5PAISA.md"
+                "file": "ABB.md"
               }
             }
           },
@@ -315,9 +315,9 @@
   },
   "active": "b03863e8030b13dc",
   "lastOpenFiles": [
+    "_daily_checklist/5PAISA.md",
     "_daily_checklist/_attachments/Pasted image 20240401084101.png",
     "_daily_checklist/AARTI IND.md",
-    "_daily_checklist/5PAISA.md",
     "_daily_checklist/_attachments/Pasted image 20240401083958.png",
     "_daily_checklist/_attachments",
     "_daily_checklist/2024-04-01.md",
@@ -338,7 +338,6 @@
     "LT.md",
     "_attachments/Pasted image 20240331193557.png",
     "ABB.md",
-    "_attachments/Pasted image 20240331193049.png",
     "ACC.md",
     "_attachments",
     "consistency-report.md",
