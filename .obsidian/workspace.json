@@ -200,6 +200,18 @@
             }
           },
           {
+            "id": "a93dc17ae81de21c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MARATHON.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "882199a327e78c57",
             "type": "leaf",
             "state": {
@@ -212,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -278,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5PAISA.md",
+                "file": "MARATHON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5PAISA.md",
+                "file": "MARATHON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5PAISA.md"
+                "file": "MARATHON.md"
               }
             }
           },
@@ -349,11 +361,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8442fbc630f59add",
+  "active": "a93dc17ae81de21c",
   "lastOpenFiles": [
+    "_attachments/Pasted image 20240401092005.png",
+    "5PAISA.md",
+    "MARATHON.md",
     "_attachments/Pasted image 20240401091815.png",
     "GAEL.md",
-    "5PAISA.md",
     "ABB.md",
     "_daily_checklist/Untitled.md",
     "_daily_checklist/2024-04-01.md",
@@ -373,7 +387,6 @@
     "BBTC.md",
     "_attachments/Pasted image 20240331194936.png",
     "AJANTAPHARMA.md",
-    "_attachments/Pasted image 20240331194836.png",
     "PGHH.md",
     "DMART.md",
     "BSE.md",
@@ -388,7 +401,6 @@
     "_daily_checklist/Daily Check List.md",
     "_daily_checklist/2024-03-19.md",
     "_daily_checklist/2024-03-13.md",
-    "IPL/mtfa/IPL - MTFA - MIT - 2024-03-01.md",
     "GRINDWELL/mtfa",
     "GRINDWELL/tda",
     "GRINDWELL",
