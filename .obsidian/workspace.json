@@ -241,9 +241,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_checklist/HEG.md",
+                "file": "_daily_checklist/2024-04-04.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "2838f47be0f3736c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ABB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c646f63321a8ccfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HEG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cd249b1bb5556ea",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
               }
             }
           },
@@ -260,7 +294,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -326,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_checklist/HEG.md",
+                "file": "HEG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +377,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_checklist/HEG.md",
+                "file": "HEG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +400,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_checklist/HEG.md"
+                "file": "HEG.md"
               }
             }
           },
@@ -397,10 +431,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f0270be14ff4268",
+  "active": "c646f63321a8ccfb",
   "lastOpenFiles": [
-    "_daily_checklist/_attachments/Pasted image 20240404070944.png",
+    "_attachments/Pasted image 20240404071101.png",
+    "ABB.md",
+    "HEG.md",
+    "5PAISA.md",
+    "_daily_checklist/Untitled 1.md",
     "_daily_checklist/2024-04-04.md",
+    "_daily_checklist/_attachments/Pasted image 20240404070944.png",
     "_daily_checklist/HEG.md",
     "ADORWALD.md",
     "_attachments/Pasted image 20240401092250.png",
@@ -408,10 +447,8 @@
     "_attachments/Pasted image 20240401092143.png",
     "MARATHON.md",
     "_attachments/Pasted image 20240401092005.png",
-    "5PAISA.md",
     "_attachments/Pasted image 20240401091815.png",
     "GAEL.md",
-    "ABB.md",
     "_daily_checklist/Untitled.md",
     "_daily_checklist/2024-04-01.md",
     "_attachments/Pasted image 20240401084442.png",
@@ -421,7 +458,6 @@
     "_attachments/Pasted image 20240401084252.png",
     "ABBOTINDIA.md",
     "_daily_checklist/5PAISA.md",
-    "_daily_checklist/_attachments/Pasted image 20240401084101.png",
     "_daily_checklist/AARTI IND.md",
     "_daily_checklist/_attachments",
     "TATAPOWER.md",
@@ -435,8 +471,6 @@
     "_attachments",
     "consistency-report.md",
     "README.md",
-    "_daily_checklist/2024-03-31.md",
-    "_daily_checklist/2024-03-30.md",
     "GRINDWELL/mtfa",
     "GRINDWELL/tda",
     "GRINDWELL",
