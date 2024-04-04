@@ -272,6 +272,18 @@
             }
           },
           {
+            "id": "ebb91ec7750c55a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CGPOWER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0cd249b1bb5556ea",
             "type": "leaf",
             "state": {
@@ -294,7 +306,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -360,7 +372,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HEG.md",
+                "file": "CGPOWER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -377,7 +389,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HEG.md",
+                "file": "CGPOWER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -400,7 +412,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HEG.md"
+                "file": "CGPOWER.md"
               }
             }
           },
@@ -431,11 +443,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c646f63321a8ccfb",
+  "active": "ebb91ec7750c55a7",
   "lastOpenFiles": [
+    "_attachments/Pasted image 20240404085243.png",
+    "HEG.md",
+    "CGPOWER.md",
     "_attachments/Pasted image 20240404071101.png",
     "ABB.md",
-    "HEG.md",
     "5PAISA.md",
     "_daily_checklist/Untitled 1.md",
     "_daily_checklist/2024-04-04.md",
@@ -455,7 +469,6 @@
     "_attachments/Pasted image 20240401084405.png",
     "_attachments/Pasted image 20240401084331.png",
     "_attachments/Pasted image 20240401084314.png",
-    "_attachments/Pasted image 20240401084252.png",
     "ABBOTINDIA.md",
     "_daily_checklist/5PAISA.md",
     "_daily_checklist/AARTI IND.md",
@@ -470,7 +483,6 @@
     "ACC.md",
     "_attachments",
     "consistency-report.md",
-    "README.md",
     "GRINDWELL/mtfa",
     "GRINDWELL/tda",
     "GRINDWELL",
