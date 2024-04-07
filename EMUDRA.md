@@ -1,0 +1,2 @@
+![](_attachments/Pasted%20image%2020240407074736.png)
+EXECUTION LIKE GARBAGE AREA
