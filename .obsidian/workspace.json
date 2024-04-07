@@ -368,6 +368,18 @@
             }
           },
           {
+            "id": "a29092f5a48390ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASHIINDIA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0cd249b1bb5556ea",
             "type": "leaf",
             "state": {
@@ -390,7 +402,7 @@
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -456,7 +468,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NCC.md",
+                "file": "ASHIINDIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -473,7 +485,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NCC.md",
+                "file": "ASHIINDIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -496,7 +508,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NCC.md"
+                "file": "ASHIINDIA.md"
               }
             }
           },
@@ -527,11 +539,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "753be4ac5bd457fa",
+  "active": "a29092f5a48390ae",
   "lastOpenFiles": [
+    "_attachments/Pasted image 20240407075156.png",
+    "NCC.md",
+    "ASHIINDIA.md",
     "_attachments/Pasted image 20240407074945.png",
     "NBCC.md",
-    "NCC.md",
     "_attachments/Pasted image 20240407074827.png",
     "EMUDRA.md",
     "_attachments/Pasted image 20240407074736.png",
@@ -556,7 +570,6 @@
     "_daily_checklist/_attachments/Pasted image 20240404070944.png",
     "_daily_checklist/HEG.md",
     "ADORWALD.md",
-    "_attachments/Pasted image 20240401092250.png",
     "DWARKESH.md",
     "MARATHON.md",
     "GAEL.md",
@@ -564,7 +577,6 @@
     "_daily_checklist/2024-04-01.md",
     "ABBOTINDIA.md",
     "_daily_checklist/5PAISA.md",
-    "_daily_checklist/AARTI IND.md",
     "_daily_checklist/_attachments",
     "_attachments",
     "GRINDWELL/mtfa",
