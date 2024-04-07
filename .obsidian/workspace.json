@@ -301,7 +301,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_checklist/CENTURYTEX.md",
+                "file": "_daily_checklist/2024-04-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "238e6a29dbb2fc55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_daily_checklist/INTELLECT.md",
                 "mode": "source",
                 "source": false
               }
@@ -330,7 +342,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -396,7 +408,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_checklist/CENTURYTEX.md",
+                "file": "_daily_checklist/INTELLECT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -413,7 +425,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_checklist/CENTURYTEX.md",
+                "file": "_daily_checklist/INTELLECT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -436,7 +448,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_checklist/CENTURYTEX.md"
+                "file": "_daily_checklist/INTELLECT.md"
               }
             }
           },
@@ -467,11 +479,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1ec0671dcddc948",
+  "active": "238e6a29dbb2fc55",
   "lastOpenFiles": [
+    "_daily_checklist/_attachments/Pasted image 20240407074606.png",
+    "_daily_checklist/2024-04-07.md",
+    "_daily_checklist/INTELLECT.md",
+    "_daily_checklist/CENTURYTEX.md",
     "_daily_checklist/_attachments/Pasted image 20240405072633.png",
     "_daily_checklist/HINDUSTAN UNI.md",
-    "_daily_checklist/CENTURYTEX.md",
     "_daily_checklist/_attachments/Pasted image 20240405071907.png",
     "_daily_checklist/2024-04-05.md",
     "CGPOWER.md",
@@ -495,7 +510,6 @@
     "_daily_checklist/Untitled.md",
     "_daily_checklist/2024-04-01.md",
     "_attachments/Pasted image 20240401084442.png",
-    "_attachments/Pasted image 20240401084405.png",
     "ABBOTINDIA.md",
     "_daily_checklist/5PAISA.md",
     "_daily_checklist/AARTI IND.md",
@@ -504,8 +518,6 @@
     "BBTC.md",
     "AJANTAPHARMA.md",
     "PGHH.md",
-    "DMART.md",
-    "BSE.md",
     "_attachments",
     "GRINDWELL/mtfa",
     "GRINDWELL/tda",
