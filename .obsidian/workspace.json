@@ -344,6 +344,18 @@
             }
           },
           {
+            "id": "2a2ab19d54775a60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NBCC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0cd249b1bb5556ea",
             "type": "leaf",
             "state": {
@@ -366,7 +378,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -432,7 +444,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EMUDRA.md",
+                "file": "NBCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -449,7 +461,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EMUDRA.md",
+                "file": "NBCC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -472,7 +484,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EMUDRA.md"
+                "file": "NBCC.md"
               }
             }
           },
@@ -503,11 +515,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e59e7492b8d3d98",
+  "active": "2a2ab19d54775a60",
   "lastOpenFiles": [
+    "_attachments/Pasted image 20240407074827.png",
+    "EMUDRA.md",
+    "NBCC.md",
     "_attachments/Pasted image 20240407074736.png",
     "5PAISA.md",
-    "EMUDRA.md",
     "_daily_checklist/EMUDRA.md",
     "_daily_checklist/_attachments/Pasted image 20240407074707.png",
     "_daily_checklist/INTELLECT.md",
@@ -532,7 +546,6 @@
     "DWARKESH.md",
     "_attachments/Pasted image 20240401092143.png",
     "MARATHON.md",
-    "_attachments/Pasted image 20240401092005.png",
     "GAEL.md",
     "_daily_checklist/Untitled.md",
     "_daily_checklist/2024-04-01.md",
@@ -541,7 +554,6 @@
     "_daily_checklist/AARTI IND.md",
     "_daily_checklist/_attachments",
     "TATAPOWER.md",
-    "BBTC.md",
     "_attachments",
     "GRINDWELL/mtfa",
     "GRINDWELL/tda",
