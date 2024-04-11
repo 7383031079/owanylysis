@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d518f7217761e041",
+        "id": "04988c1219295d1e",
         "type": "tabs",
         "children": [
           {
-            "id": "1968db04d592df48",
+            "id": "108e86d73790101a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HEG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "435f42709a0a9f22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily_checklist/2024-04-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "199d3c0391f21dcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily_checklist/DEEPAKNITRITE.md",
+                "file": "GMMPFAUDLR.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_checklist/DEEPAKNITRITE.md",
+                "file": "GMMPFAUDLR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_checklist/DEEPAKNITRITE.md",
+                "file": "GMMPFAUDLR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_checklist/DEEPAKNITRITE.md"
+                "file": "GMMPFAUDLR.md"
               }
             }
           },
@@ -182,14 +157,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "199d3c0391f21dcd",
+  "active": "108e86d73790101a",
   "lastOpenFiles": [
-    "_daily_checklist/_attachments/Pasted image 20240411220457.png",
+    "_attachments/Pasted image 20240411220652.png",
+    "GMMPFAUDLR.md",
+    "HEG.md",
     "_daily_checklist/2024-04-11.md",
     "_daily_checklist/DEEPAKNITRITE.md",
+    "_daily_checklist/_attachments/Pasted image 20240411220457.png",
     "MAITHNALL.md",
     "_attachments/Pasted image 20240410100605.png",
-    "HEG.md",
     "consistency-report.md",
     "ACC.md",
     "TRENT.md",
@@ -211,7 +188,6 @@
     "GODREJPRO.md",
     "GEPIL.md",
     "_daily_checklist/MOTILALOSWAL.md",
-    "_daily_checklist/Untitled 2.md",
     "_daily_checklist/_attachments/Pasted image 20240410091614.png",
     "_daily_checklist/_attachments/Pasted image 20240410091403.png",
     "_attachments/Pasted image 20240407082433.png",
@@ -219,7 +195,6 @@
     "_attachments/Pasted image 20240407081232.png",
     "_attachments/Pasted image 20240407080827.png",
     "_attachments/Pasted image 20240407080638.png",
-    "_attachments/Pasted image 20240407080143.png",
     "_daily_checklist/_attachments",
     "_attachments",
     "GRINDWELL/mtfa",
