@@ -1,0 +1,2 @@
+![](_attachments/Pasted%20image%2020240411220457.png)
+WIT TRADE AT TIME OF ARRIVAL CHECK TREND 
