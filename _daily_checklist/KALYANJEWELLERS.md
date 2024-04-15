@@ -1,0 +1,2 @@
+![](_attachments/Pasted%20image%2020240415090325.png)
+WIT TRADE NOT PERFECT EXECUTION
