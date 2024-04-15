@@ -1,0 +1,2 @@
+![](_attachments/Pasted%20image%2020240415082623.png)
+WIT TRADE WITH SECTOR SUPPORT
