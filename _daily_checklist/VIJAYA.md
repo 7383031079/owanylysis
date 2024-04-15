@@ -1,0 +1,2 @@
+![](_attachments/Pasted%20image%2020240415090516.png)
+NOT PERFECT TRADE WATCH FOR FUTURE
