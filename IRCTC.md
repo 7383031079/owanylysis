@@ -1,0 +1,2 @@
+![](_attachments/Pasted%20image%2020240417085538.png)
+WIT TRADE EXECUTION NOT OK WATCH LEVEL
