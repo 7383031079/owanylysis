@@ -1,0 +1,2 @@
+![](_attachments/Pasted%20image%2020240417075053.png)
+WIT TRADE BUT NO ACHIVMENT ZONE
