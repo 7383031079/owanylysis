@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9bc49c18e4b4168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_daily_checklist/M&MFIN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_checklist/GSFC.md",
+                "file": "_daily_checklist/M&MFIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_checklist/GSFC.md",
+                "file": "_daily_checklist/M&MFIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_checklist/GSFC.md"
+                "file": "_daily_checklist/M&MFIN.md"
               }
             }
           },
@@ -194,11 +206,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa33c0cb44a917ba",
+  "active": "c9bc49c18e4b4168",
   "lastOpenFiles": [
+    "_daily_checklist/_attachments/Pasted image 20240417075559.png",
+    "_daily_checklist/GSFC.md",
+    "_daily_checklist/M&MFIN.md",
     "_daily_checklist/_attachments/Pasted image 20240417075357.png",
     "_daily_checklist/HONDAPOWER.md",
-    "_daily_checklist/GSFC.md",
     "_daily_checklist/_attachments/Pasted image 20240417075053.png",
     "_daily_checklist/H.md",
     "_daily_checklist/2024-04-15.md",
@@ -228,10 +242,8 @@
     "_daily_checklist/_attachments/Pasted image 20240415093917.png",
     "_daily_checklist/_attachments/Pasted image 20240415093809.png",
     "_daily_checklist/_attachments/Pasted image 20240415093648.png",
-    "_daily_checklist/_attachments/Pasted image 20240415090824.png",
     "PNB.md",
     "AJANTAPHARMA.md",
-    "_daily_checklist/2024-04-14.md",
     "_daily_checklist/_attachments",
     "_attachments",
     "GRINDWELL/mtfa",
