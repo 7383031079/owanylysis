@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHARDACORP/_attachments/MIT TIME FRAME.md",
+                "file": "SHARDACORP/WIT TIME FRAME.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARDACORP/_attachments/MIT TIME FRAME.md",
+                "file": "SHARDACORP/WIT TIME FRAME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SHARDACORP/_attachments/MIT TIME FRAME.md",
+                "file": "SHARDACORP/WIT TIME FRAME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SHARDACORP/_attachments/MIT TIME FRAME.md"
+                "file": "SHARDACORP/WIT TIME FRAME.md"
               }
             }
           },
@@ -196,10 +196,13 @@
   },
   "active": "4d7f51a6a4f2b0e4",
   "lastOpenFiles": [
+    "SHARDACORP/_attachments/Pasted image 20240423075726.png",
+    "SHARDACORP/_attachments/Pasted image 20240423075613.png",
+    "SHARDACORP/_attachments/MIT TIME FRAME.md",
+    "SHARDACORP/WIT TIME FRAME.md",
     "SHARDACORP/_attachments/_attachments/Pasted image 20240423075036.png",
     "SHARDACORP/_attachments/_attachments",
     "SHARDACORP/QIT TIME FRAME.md",
-    "SHARDACORP/_attachments/MIT TIME FRAME.md",
     "SHARDACORP/_attachments/Pasted image 20240423074249.png",
     "SHARDACORP/HALFYEAR.md",
     "SHARDACORP/_attachments/Pasted image 20240423073153.png",
@@ -220,12 +223,10 @@
     "MANYAVAR",
     "IEX/_attachments/Pasted image 20240423071840.png",
     "IEX/MIT TRADE.md",
-    "IEX/_attachments/Pasted image 20240423071709.png",
     "IEX/_attachments",
     "GPIL/WIT TRADE.md",
     "IEX",
     "JINDALSTEEL/WIT TRADE.md",
-    "JINDALSTEEL/_attachments/Pasted image 20240423071504.png",
     "JINDALSTEEL/_attachments",
     "MAHLOG/WIT TRADE.md",
     "BAJAJHIND/Untitled.md",
@@ -240,7 +241,6 @@
     "KSCL/wit trade.md",
     "5PAISA.md",
     "ABBOTINDIA.md",
-    "ABB.md",
-    "Wit trade time frame.md"
+    "ABB.md"
   ]
 }
