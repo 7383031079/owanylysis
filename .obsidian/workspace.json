@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wit trade time frame.md",
+                "file": "KSCL/wit trade.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wit trade time frame.md",
+                "file": "KSCL/wit trade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wit trade time frame.md",
+                "file": "KSCL/wit trade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wit trade time frame.md"
+                "file": "KSCL/wit trade.md"
               }
             }
           },
@@ -159,8 +159,16 @@
   },
   "active": "e251cf4f589ab32b",
   "lastOpenFiles": [
-    "_attachments/Pasted image 20240423064038.png",
+    "KSCL/_attachments/Pasted image 20240423064237.png",
+    "KSCL/_attachments/Pasted image 20240423064227.png",
+    "KSCL/_attachments",
+    "5PAISA.md",
+    "KSCL/wit trade.md",
+    "Untitled",
+    "ABBOTINDIA.md",
+    "ABB.md",
     "Wit trade time frame.md",
+    "_attachments/Pasted image 20240423064038.png",
     "Untitled.md",
     "WIT.md",
     "_daily_checklist/M&MFIN.md",
@@ -187,23 +195,15 @@
     "UTIAMC.md",
     "_attachments/Pasted image 20240417084900.png",
     "USHAMART.md",
-    "_attachments/Pasted image 20240417084819.png",
     "consistency-report.md",
     "_daily_checklist/GOACARBON.md",
-    "_daily_checklist/_attachments/Pasted image 20240417084439.png",
     "_daily_checklist/GSFC.md",
-    "_daily_checklist/HONDAPOWER.md",
-    "_daily_checklist/H.md",
-    "_daily_checklist/2024-04-15.md",
-    "_daily_checklist/AMBUJA.md",
     "_daily_checklist/_attachments",
     "_attachments",
     "GRINDWELL/mtfa",
     "GRINDWELL/tda",
     "GRINDWELL",
     "ATUL/mtfa",
-    "ATUL/tda",
-    "ATUL",
-    "IPL/mtfa/_attachments"
+    "ATUL/tda"
   ]
 }
