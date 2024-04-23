@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SELAN/WIT TRADE.md",
+                "file": "BAJAJHIND/YEAR TIME FRAME.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SELAN/WIT TRADE.md",
+                "file": "BAJAJHIND/YEAR TIME FRAME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SELAN/WIT TRADE.md",
+                "file": "BAJAJHIND/YEAR TIME FRAME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SELAN/WIT TRADE.md"
+                "file": "BAJAJHIND/YEAR TIME FRAME.md"
               }
             }
           },
@@ -159,11 +159,17 @@
   },
   "active": "e251cf4f589ab32b",
   "lastOpenFiles": [
+    "BAJAJHIND/_attachments/Pasted image 20240423065630.png",
+    "BAJAJHIND/_attachments",
+    "SELAN/Untitled.md",
+    "BAJAJHIND/YEAR TIME FRAME.md",
+    "SELAN/WIT TRADE.md",
+    "BAJAJHIND",
+    "BAJAJ HIND",
     "SELAN/_attachments/Pasted image 20240423065308.png",
     "SELAN/_attachments/Pasted image 20240423065305.png",
     "SELAN/_attachments",
     "TITAN/MIT TRADE.md",
-    "SELAN/WIT TRADE.md",
     "SELAN",
     "TITAN/_attachments/Pasted image 20240423064402.png",
     "TITAN/_attachments",
@@ -195,15 +201,9 @@
     "KALYANJE.md",
     "_attachments/Pasted image 20240417085402.png",
     "VIJAYA.md",
-    "_attachments/Pasted image 20240417085249.png",
     "ARE&M.md",
     "CASTROL.md",
     "UTIAMC.md",
-    "USHAMART.md",
-    "consistency-report.md",
-    "_daily_checklist/_attachments",
-    "_attachments",
-    "GRINDWELL/mtfa",
-    "GRINDWELL/tda"
+    "_daily_checklist/_attachments"
   ]
 }
