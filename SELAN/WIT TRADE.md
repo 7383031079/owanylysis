@@ -1,0 +1,2 @@
+![](_attachments/Pasted%20image%2020240423065308.png)
+AT TIME OF ARRIVAL CHECK TREND
