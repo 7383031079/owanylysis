@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3ee542a0ad8d111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BAJAJHIND/MIT TIME FRAME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BAJAJHIND/QTR TIME FRAME.md",
+                "file": "BAJAJHIND/MIT TIME FRAME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BAJAJHIND/QTR TIME FRAME.md",
+                "file": "BAJAJHIND/MIT TIME FRAME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BAJAJHIND/QTR TIME FRAME.md"
+                "file": "BAJAJHIND/MIT TIME FRAME.md"
               }
             }
           },
@@ -170,11 +182,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a223827a4efb0ff",
+  "active": "a3ee542a0ad8d111",
   "lastOpenFiles": [
+    "BAJAJHIND/_attachments/Pasted image 20240423070118.png",
+    "BAJAJHIND/QTR TIME FRAME.md",
+    "BAJAJHIND/MIT TIME FRAME.md",
     "BAJAJHIND/_attachments/Pasted image 20240423065825.png",
     "BAJAJHIND/YEAR TIME FRAME.md",
-    "BAJAJHIND/QTR TIME FRAME.md",
     "BAJAJHIND/_attachments/Pasted image 20240423065630.png",
     "BAJAJHIND/_attachments",
     "SELAN/Untitled.md",
@@ -212,11 +226,9 @@
     "JINDALSAW.md",
     "_attachments/Pasted image 20240417085645.png",
     "IRCTC.md",
-    "_attachments/Pasted image 20240417085538.png",
     "KALYANJE.md",
     "VIJAYA.md",
     "ARE&M.md",
-    "CASTROL.md",
     "_daily_checklist/_attachments"
   ]
 }
