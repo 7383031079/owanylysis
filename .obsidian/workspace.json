@@ -169,14 +169,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMART.md",
+                "file": "GAEL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMART.md",
+                "file": "_daily_checklist/M&MFIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMART.md",
+                "file": "_daily_checklist/M&MFIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMART.md"
+                "file": "_daily_checklist/M&MFIN.md"
               }
             }
           },
@@ -314,8 +314,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f6a665a0785118f6",
+  "active": "c9bc49c18e4b4168",
   "lastOpenFiles": [
+    "GAEL.md",
+    "EMUDRA.md",
+    "DWARKESH.md",
+    "DMART.md",
+    "_daily_checklist/2024-04-23.md",
     "_attachments/Pasted image 20240421214549.png",
     "_daily_checklist/2024-04-21.md",
     "JINDALSAW.md",
@@ -338,7 +343,6 @@
     "_daily_checklist/GOACARBON.md",
     "_daily_checklist/_attachments/Pasted image 20240417084439.png",
     "_daily_checklist/M&MFIN.md",
-    "_daily_checklist/_attachments/Pasted image 20240417075559.png",
     "_daily_checklist/GSFC.md",
     "_daily_checklist/HONDAPOWER.md",
     "_daily_checklist/H.md",
@@ -348,10 +352,6 @@
     "_daily_checklist/EIHOTEL.md",
     "_daily_checklist/IOB.md",
     "_daily_checklist/JINDALSAW.md",
-    "_daily_checklist/IRCTC.md",
-    "_daily_checklist/KALYANJEWELLERS.md",
-    "_daily_checklist/VIJAYA.md",
-    "_daily_checklist/CASTROL.md",
     "_daily_checklist/_attachments",
     "_attachments",
     "GRINDWELL/mtfa",
