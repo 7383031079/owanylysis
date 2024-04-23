@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAHLOG/WIT TRADE.md",
+                "file": "GPIL/WIT TRADE.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAHLOG/WIT TRADE.md",
+                "file": "GPIL/WIT TRADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAHLOG/WIT TRADE.md",
+                "file": "GPIL/WIT TRADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAHLOG/WIT TRADE.md"
+                "file": "GPIL/WIT TRADE.md"
               }
             }
           },
@@ -196,10 +196,14 @@
   },
   "active": "4d7f51a6a4f2b0e4",
   "lastOpenFiles": [
+    "GPIL/_attachments/Pasted image 20240423071308.png",
+    "GPIL/_attachments",
+    "MAHLOG/WIT TRADE.md",
+    "GPIL/WIT TRADE.md",
+    "GPIL",
     "MAHLOG/_attachments/Pasted image 20240423070834.png",
     "MAHLOG/_attachments",
     "BAJAJHIND/Untitled.md",
-    "MAHLOG/WIT TRADE.md",
     "BAJAJHIND/Untitled 1.md",
     "BAJAJHIND/WIT TRADE.md",
     "MAHLOG",
@@ -223,15 +227,12 @@
     "TITAN/_attachments/Pasted image 20240423064402.png",
     "TITAN/_attachments",
     "KSCL/wit trade.md",
-    "TITAN",
     "KSCL/_attachments/Pasted image 20240423064237.png",
     "KSCL/_attachments/Pasted image 20240423064227.png",
-    "KSCL/_attachments",
     "5PAISA.md",
     "ABBOTINDIA.md",
     "ABB.md",
     "Wit trade time frame.md",
-    "_attachments/Pasted image 20240423064038.png",
     "Untitled.md",
     "WIT.md",
     "_daily_checklist/M&MFIN.md",
@@ -240,7 +241,6 @@
     "DWARKESH.md",
     "DMART.md",
     "_daily_checklist/2024-04-23.md",
-    "_daily_checklist/2024-04-21.md",
-    "JINDALSAW.md"
+    "_daily_checklist/2024-04-21.md"
   ]
 }
