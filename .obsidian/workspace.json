@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KSCL/wit trade.md",
+                "file": "TITAN/MIT TRADE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KSCL/wit trade.md",
+                "file": "TITAN/MIT TRADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KSCL/wit trade.md",
+                "file": "TITAN/MIT TRADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KSCL/wit trade.md"
+                "file": "TITAN/MIT TRADE.md"
               }
             }
           },
@@ -159,12 +159,15 @@
   },
   "active": "e251cf4f589ab32b",
   "lastOpenFiles": [
+    "TITAN/_attachments/Pasted image 20240423064402.png",
+    "TITAN/_attachments",
+    "KSCL/wit trade.md",
+    "TITAN/MIT TRADE.md",
+    "TITAN",
     "KSCL/_attachments/Pasted image 20240423064237.png",
     "KSCL/_attachments/Pasted image 20240423064227.png",
     "KSCL/_attachments",
     "5PAISA.md",
-    "KSCL/wit trade.md",
-    "Untitled",
     "ABBOTINDIA.md",
     "ABB.md",
     "Wit trade time frame.md",
@@ -193,17 +196,14 @@
     "CASTROL.md",
     "_attachments/Pasted image 20240417084945.png",
     "UTIAMC.md",
-    "_attachments/Pasted image 20240417084900.png",
     "USHAMART.md",
     "consistency-report.md",
     "_daily_checklist/GOACARBON.md",
-    "_daily_checklist/GSFC.md",
     "_daily_checklist/_attachments",
     "_attachments",
     "GRINDWELL/mtfa",
     "GRINDWELL/tda",
     "GRINDWELL",
-    "ATUL/mtfa",
-    "ATUL/tda"
+    "ATUL/mtfa"
   ]
 }
