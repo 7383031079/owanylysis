@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINDEINDIA/WIT TIME FRAME.md",
+                "file": "WABG/WIT TIME FRAME.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINDEINDIA/WIT TIME FRAME.md",
+                "file": "WABG/WIT TIME FRAME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINDEINDIA/WIT TIME FRAME.md",
+                "file": "WABG/WIT TIME FRAME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINDEINDIA/WIT TIME FRAME.md"
+                "file": "WABG/WIT TIME FRAME.md"
               }
             }
           },
@@ -196,10 +196,14 @@
   },
   "active": "4d7f51a6a4f2b0e4",
   "lastOpenFiles": [
+    "WABG/_attachments/Pasted image 20240423082221.png",
+    "WABG/_attachments",
+    "LINDEINDIA/WIT TIME FRAME.md",
+    "WABG/WIT TIME FRAME.md",
+    "WABG",
     "LINDEINDIA/_attachments/Pasted image 20240423082140.png",
     "LINDEINDIA/_attachments",
     "IRB/WIT TIME FRAME.md",
-    "LINDEINDIA/WIT TIME FRAME.md",
     "LINDEINDIA",
     "IRB/_attachments/Pasted image 20240423082040.png",
     "IRB/_attachments",
@@ -213,9 +217,7 @@
     "SAFARI/_attachments/Pasted image 20240423081643.png",
     "SAFARI/_attachments",
     "SOLARA/WIT TIME FRAME.md",
-    "SAFARI",
     "SOLARA/_attachments/Pasted image 20240423081552.png",
-    "SOLARA/_attachments",
     "ZOMATO/WIT TIME FRAME.md",
     "ZOMATO/_attachments/Pasted image 20240423080410.png",
     "PNBHOUSING/WIT TIME FRAME.md",
@@ -227,7 +229,6 @@
     "SHARDACORP/_attachments/MIT TIME FRAME.md",
     "SHARDACORP/_attachments/_attachments/Pasted image 20240423075036.png",
     "SHARDACORP/QIT TIME FRAME.md",
-    "SHARDACORP/_attachments/Pasted image 20240423074249.png",
     "SHARDACORP/HALFYEAR.md",
     "SHARDACORP/YEAR TIME FRAME.md",
     "ARURAS/QIT TRADE.md",
@@ -240,7 +241,6 @@
     "BAJAJHIND/Untitled.md",
     "BAJAJHIND/Untitled 1.md",
     "BAJAJHIND/WIT TRADE.md",
-    "BAJAJHIND/MIT TIME FRAME.md",
-    "BAJAJHIND/QTR TIME FRAME.md"
+    "BAJAJHIND/MIT TIME FRAME.md"
   ]
 }
