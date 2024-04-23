@@ -1,0 +1,2 @@
+![](_attachments/Pasted%20image%2020240423073020.png)
+ALSO RUNNING HALF YEAR DEMAND ZONE

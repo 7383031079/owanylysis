@@ -1,0 +1,1 @@
+![](_attachments/Pasted%20image%2020240423072925.png)RUNNING FORM YEARLY DEMAND ZONE
