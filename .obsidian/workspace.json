@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MANYAVAR/QIT TIME FRAME.md",
+                "file": "ARURAS/QIT TRADE.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MANYAVAR/QIT TIME FRAME.md",
+                "file": "ARURAS/QIT TRADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MANYAVAR/QIT TIME FRAME.md",
+                "file": "ARURAS/QIT TRADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MANYAVAR/QIT TIME FRAME.md"
+                "file": "ARURAS/QIT TRADE.md"
               }
             }
           },
@@ -196,10 +196,14 @@
   },
   "active": "4d7f51a6a4f2b0e4",
   "lastOpenFiles": [
+    "ARURAS/_attachments/Pasted image 20240423072439.png",
+    "ARURAS/_attachments",
+    "MANYAVAR/QIT TIME FRAME.md",
+    "ARURAS/QIT TRADE.md",
+    "ARURAS",
     "MANYAVAR/_attachments/Pasted image 20240423072249.png",
     "MANYAVAR/_attachments",
     "IEX/WIT TRADE.md",
-    "MANYAVAR/QIT TIME FRAME.md",
     "MANYAVAR",
     "IEX/_attachments/Pasted image 20240423071840.png",
     "IEX/MIT TRADE.md",
@@ -216,11 +220,9 @@
     "MAHLOG/WIT TRADE.md",
     "GPIL",
     "MAHLOG/_attachments/Pasted image 20240423070834.png",
-    "MAHLOG/_attachments",
     "BAJAJHIND/Untitled.md",
     "BAJAJHIND/Untitled 1.md",
     "BAJAJHIND/WIT TRADE.md",
-    "MAHLOG",
     "BAJAJHIND/_attachments/Pasted image 20240423070406.png",
     "BAJAJHIND/MIT TIME FRAME.md",
     "BAJAJHIND/_attachments/Pasted image 20240423070118.png",
@@ -230,7 +232,6 @@
     "BAJAJHIND/_attachments/Pasted image 20240423065630.png",
     "SELAN/Untitled.md",
     "SELAN/WIT TRADE.md",
-    "SELAN/_attachments/Pasted image 20240423065308.png",
     "TITAN/MIT TRADE.md",
     "KSCL/wit trade.md",
     "5PAISA.md",
@@ -240,7 +241,6 @@
     "Untitled.md",
     "WIT.md",
     "_daily_checklist/M&MFIN.md",
-    "GAEL.md",
-    "EMUDRA.md"
+    "GAEL.md"
   ]
 }
