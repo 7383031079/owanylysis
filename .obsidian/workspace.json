@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d7f51a6a4f2b0e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BAJAJHIND/WIT TRADE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BAJAJHIND/MIT TIME FRAME.md",
+                "file": "BAJAJHIND/WIT TRADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BAJAJHIND/MIT TIME FRAME.md",
+                "file": "BAJAJHIND/WIT TRADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BAJAJHIND/MIT TIME FRAME.md"
+                "file": "BAJAJHIND/WIT TRADE.md"
               }
             }
           },
@@ -182,11 +194,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3ee542a0ad8d111",
+  "active": "4d7f51a6a4f2b0e4",
   "lastOpenFiles": [
+    "BAJAJHIND/_attachments/Pasted image 20240423070406.png",
+    "BAJAJHIND/MIT TIME FRAME.md",
+    "BAJAJHIND/WIT TRADE.md",
     "BAJAJHIND/_attachments/Pasted image 20240423070118.png",
     "BAJAJHIND/QTR TIME FRAME.md",
-    "BAJAJHIND/MIT TIME FRAME.md",
     "BAJAJHIND/_attachments/Pasted image 20240423065825.png",
     "BAJAJHIND/YEAR TIME FRAME.md",
     "BAJAJHIND/_attachments/Pasted image 20240423065630.png",
@@ -224,11 +238,9 @@
     "_attachments/Pasted image 20240421214549.png",
     "_daily_checklist/2024-04-21.md",
     "JINDALSAW.md",
-    "_attachments/Pasted image 20240417085645.png",
     "IRCTC.md",
     "KALYANJE.md",
     "VIJAYA.md",
-    "ARE&M.md",
     "_daily_checklist/_attachments"
   ]
 }
