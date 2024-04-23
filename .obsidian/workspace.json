@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a223827a4efb0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BAJAJHIND/QTR TIME FRAME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BAJAJHIND/YEAR TIME FRAME.md",
+                "file": "BAJAJHIND/QTR TIME FRAME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BAJAJHIND/YEAR TIME FRAME.md",
+                "file": "BAJAJHIND/QTR TIME FRAME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BAJAJHIND/YEAR TIME FRAME.md"
+                "file": "BAJAJHIND/QTR TIME FRAME.md"
               }
             }
           },
@@ -157,12 +170,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e251cf4f589ab32b",
+  "active": "6a223827a4efb0ff",
   "lastOpenFiles": [
+    "BAJAJHIND/_attachments/Pasted image 20240423065825.png",
+    "BAJAJHIND/YEAR TIME FRAME.md",
+    "BAJAJHIND/QTR TIME FRAME.md",
     "BAJAJHIND/_attachments/Pasted image 20240423065630.png",
     "BAJAJHIND/_attachments",
     "SELAN/Untitled.md",
-    "BAJAJHIND/YEAR TIME FRAME.md",
     "SELAN/WIT TRADE.md",
     "BAJAJHIND",
     "BAJAJ HIND",
@@ -199,11 +214,9 @@
     "IRCTC.md",
     "_attachments/Pasted image 20240417085538.png",
     "KALYANJE.md",
-    "_attachments/Pasted image 20240417085402.png",
     "VIJAYA.md",
     "ARE&M.md",
     "CASTROL.md",
-    "UTIAMC.md",
     "_daily_checklist/_attachments"
   ]
 }
