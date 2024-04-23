@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BAJAJHIND/WIT TRADE.md",
+                "file": "MAHLOG/WIT TRADE.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BAJAJHIND/WIT TRADE.md",
+                "file": "MAHLOG/WIT TRADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BAJAJHIND/WIT TRADE.md",
+                "file": "MAHLOG/WIT TRADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BAJAJHIND/WIT TRADE.md"
+                "file": "MAHLOG/WIT TRADE.md"
               }
             }
           },
@@ -196,9 +196,15 @@
   },
   "active": "4d7f51a6a4f2b0e4",
   "lastOpenFiles": [
+    "MAHLOG/_attachments/Pasted image 20240423070834.png",
+    "MAHLOG/_attachments",
+    "BAJAJHIND/Untitled.md",
+    "MAHLOG/WIT TRADE.md",
+    "BAJAJHIND/Untitled 1.md",
+    "BAJAJHIND/WIT TRADE.md",
+    "MAHLOG",
     "BAJAJHIND/_attachments/Pasted image 20240423070406.png",
     "BAJAJHIND/MIT TIME FRAME.md",
-    "BAJAJHIND/WIT TRADE.md",
     "BAJAJHIND/_attachments/Pasted image 20240423070118.png",
     "BAJAJHIND/QTR TIME FRAME.md",
     "BAJAJHIND/_attachments/Pasted image 20240423065825.png",
@@ -229,18 +235,12 @@
     "Untitled.md",
     "WIT.md",
     "_daily_checklist/M&MFIN.md",
-    "KSCL",
     "GAEL.md",
     "EMUDRA.md",
     "DWARKESH.md",
     "DMART.md",
     "_daily_checklist/2024-04-23.md",
-    "_attachments/Pasted image 20240421214549.png",
     "_daily_checklist/2024-04-21.md",
-    "JINDALSAW.md",
-    "IRCTC.md",
-    "KALYANJE.md",
-    "VIJAYA.md",
-    "_daily_checklist/_attachments"
+    "JINDALSAW.md"
   ]
 }
