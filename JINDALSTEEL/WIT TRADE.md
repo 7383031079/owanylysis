@@ -1,0 +1,2 @@
+![](_attachments/Pasted%20image%2020240423071504.png)
+AT TIME OF ARRIVAL CHECK SECTOR SUPPORT
