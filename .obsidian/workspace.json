@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "718e114f5a1b8df8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily_checklist/2024-08-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_checklist/2024-08-04.md",
+                "file": "TEJAS/WIT TRADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_checklist/2024-08-04.md",
+                "file": "TEJAS/WIT TRADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_checklist/2024-08-04.md"
+                "file": "TEJAS/WIT TRADE.md"
               }
             }
           },
@@ -170,10 +157,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "718e114f5a1b8df8",
+  "active": "14513ab692c88f5a",
   "lastOpenFiles": [
-    "ARVIND FASHION/HTF TIME FRAME.md",
     "_daily_checklist/2024-08-04.md",
+    "ARVIND FASHION/HTF TIME FRAME.md",
     "INDHOTEL/WIT TRADE.md",
     "INDHOTEL/_attachments/Pasted image 20240804154407.png",
     "DHANUKA/_attachments/Pasted image 20240522083033.png",
