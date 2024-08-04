@@ -4,59 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "5c0998214cfcd1bf",
+        "id": "a9ca675155c6785d",
         "type": "tabs",
         "children": [
           {
-            "id": "e251cf4f589ab32b",
+            "id": "14513ab692c88f5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BAJAJHIND/YEAR TIME FRAME.md",
+                "file": "TEJAS/WIT TRADE.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a223827a4efb0ff",
+            "id": "718e114f5a1b8df8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "BAJAJHIND/QTR TIME FRAME.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3ee542a0ad8d111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BAJAJHIND/MIT TIME FRAME.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d7f51a6a4f2b0e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ABFRL/WIT TIME FRAME.md",
-                "mode": "source",
-                "source": false
+                "file": "DHANUKA/_attachments/Pasted image 20240522083033.png"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "IB",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ABFRL/WIT TIME FRAME.md",
+                "file": "DHANUKA/_attachments/Pasted image 20240522083033.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ABFRL/WIT TIME FRAME.md",
+                "file": "DHANUKA/_attachments/Pasted image 20240522083033.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ABFRL/WIT TIME FRAME.md"
+                "file": "DHANUKA/_attachments/Pasted image 20240522083033.png"
               }
             }
           },
@@ -194,53 +168,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d7f51a6a4f2b0e4",
+  "active": "718e114f5a1b8df8",
   "lastOpenFiles": [
-    "ABFRL/_attachments/Pasted image 20240423082302.png",
-    "ABFRL/_attachments",
-    "WABG/WIT TIME FRAME.md",
-    "ABFRL/WIT TIME FRAME.md",
-    "ABFRL",
-    "WABG/_attachments/Pasted image 20240423082221.png",
-    "WABG/_attachments",
-    "LINDEINDIA/WIT TIME FRAME.md",
-    "WABG",
-    "LINDEINDIA/_attachments/Pasted image 20240423082140.png",
-    "LINDEINDIA/_attachments",
-    "IRB/WIT TIME FRAME.md",
-    "LINDEINDIA",
-    "IRB/_attachments/Pasted image 20240423082040.png",
-    "IRB/_attachments",
-    "MAZDOCK/WIT TIME FRAME.md",
-    "Untitled",
-    "IRB",
-    "MAZDOCK/_attachments/Pasted image 20240423081805.png",
-    "MAZDOCK/_attachments",
-    "SAFARI/WIT TIME FRAME.md",
-    "SAFARI/_attachments/Pasted image 20240423081643.png",
-    "SOLARA/WIT TIME FRAME.md",
-    "SOLARA/_attachments/Pasted image 20240423081552.png",
-    "ZOMATO/WIT TIME FRAME.md",
-    "ZOMATO/_attachments/Pasted image 20240423080410.png",
-    "PNBHOUSING/WIT TIME FRAME.md",
-    "PNBHOUSING/_attachments/Pasted image 20240423080319.png",
-    "SHARDACORP/Untitled.md",
-    "SHARDACORP/WIT TIME FRAME.md",
-    "SHARDACORP/_attachments/Pasted image 20240423075726.png",
-    "SHARDACORP/_attachments/Pasted image 20240423075613.png",
-    "SHARDACORP/_attachments/MIT TIME FRAME.md",
-    "SHARDACORP/QIT TIME FRAME.md",
-    "SHARDACORP/HALFYEAR.md",
-    "SHARDACORP/YEAR TIME FRAME.md",
-    "ARURAS/QIT TRADE.md",
-    "MANYAVAR/QIT TIME FRAME.md",
-    "IEX/WIT TRADE.md",
-    "IEX/MIT TRADE.md",
-    "GPIL/WIT TRADE.md",
-    "JINDALSTEEL/WIT TRADE.md",
-    "MAHLOG/WIT TRADE.md",
-    "BAJAJHIND/Untitled.md",
-    "BAJAJHIND/Untitled 1.md",
-    "BAJAJHIND/WIT TRADE.md"
+    "Untitled.md",
+    "BAJAJHIND/_attachments/Pasted image 20240423070406.png",
+    "BAJAJHIND/_attachments/Pasted image 20240423070118.png",
+    "BAJAJHIND/_attachments/Pasted image 20240423065825.png",
+    "BAJAJHIND/_attachments/Pasted image 20240423065630.png",
+    "BAJAJHIND/_attachments",
+    "BAJAJHIND/YEAR TIME FRAME.md",
+    "BAJAJHIND/WIT TRADE.md",
+    "BAJAJHIND/QTR TIME FRAME.md",
+    "BAJAJHIND/MIT TIME FRAME.md",
+    "BAJAJHIND",
+    "_daily_checklist/2024-08-04.md",
+    "TEJAS/_attachments/Pasted image 20240724081137.png",
+    "TEJAS/_attachments",
+    "IBULHSGFIN/WIT TRADE.md",
+    "TEJAS/WIT TRADE.md",
+    "IBULHSGFIN/_attachments/Pasted image 20240724080543.png",
+    "IBULHSGFIN/_attachments",
+    "AUBANK/WIT TRADE.md",
+    "IBULHSGFIN",
+    "_daily_checklist/2024-07-24.md",
+    "_daily_checklist/2024-05-23.md",
+    "DHANUKA/MIT TRADE.md",
+    "DHANUKA/_attachments/Pasted image 20240522083033.png",
+    "DHANUKA/_attachments",
+    "AARTIPHARMA/WIT TRADE.md",
+    "DHANUKA",
+    "AARTIPHARMA/_attachments/Pasted image 20240522082514.png",
+    "AARTIPHARMA/_attachments",
+    "_daily_checklist/2024-05-22.md",
+    "AARTIPHARMA",
+    "IRCON/WIT TRADE.md",
+    "IRCON/_attachments/Pasted image 20240521090019.png",
+    "IRCON/_attachments",
+    "JUSTDIAL/WIT TRADE.md",
+    "JUSTDIAL/_attachments/Pasted image 20240521085325.png",
+    "ENGGINERSIN/WIT TRADE.md",
+    "DREDGECORP/WIT TRADE.md",
+    "FMCOETZE/WIT TRADE.md",
+    "ESCORTS/WIT TRADE.md",
+    "KISLOSIND/WITTRADE.md",
+    "INGRENND/WIT TRADE.md",
+    "INGRENNAD.md",
+    "ECLERX/QIT TRADE.md",
+    "GRSE/WIT TRADE.md",
+    "COCHIN/WIT TRADE.md"
   ]
 }

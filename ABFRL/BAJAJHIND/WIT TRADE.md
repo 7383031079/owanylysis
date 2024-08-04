@@ -1,0 +1,2 @@
+![](_attachments/Pasted%20image%2020240423070406.png)
+DAILY TRADE BHI TRADEABLE HAI AB TO
