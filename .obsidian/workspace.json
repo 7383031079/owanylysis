@@ -23,9 +23,11 @@
             "id": "718e114f5a1b8df8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DHANUKA/_attachments/Pasted image 20240522083033.png"
+                "file": "INDHOTEL/WIT TRADE.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DHANUKA/_attachments/Pasted image 20240522083033.png",
+                "file": "INDHOTEL/WIT TRADE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DHANUKA/_attachments/Pasted image 20240522083033.png",
+                "file": "INDHOTEL/WIT TRADE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DHANUKA/_attachments/Pasted image 20240522083033.png"
+                "file": "INDHOTEL/WIT TRADE.md"
               }
             }
           },
@@ -170,6 +172,8 @@
   },
   "active": "718e114f5a1b8df8",
   "lastOpenFiles": [
+    "INDHOTEL/_attachments/Pasted image 20240804154407.png",
+    "DHANUKA/_attachments/Pasted image 20240522083033.png",
     "Untitled.md",
     "BAJAJHIND/_attachments/Pasted image 20240423070406.png",
     "BAJAJHIND/_attachments/Pasted image 20240423070118.png",
@@ -193,7 +197,6 @@
     "_daily_checklist/2024-07-24.md",
     "_daily_checklist/2024-05-23.md",
     "DHANUKA/MIT TRADE.md",
-    "DHANUKA/_attachments/Pasted image 20240522083033.png",
     "DHANUKA/_attachments",
     "AARTIPHARMA/WIT TRADE.md",
     "DHANUKA",
@@ -214,7 +217,6 @@
     "INGRENND/WIT TRADE.md",
     "INGRENNAD.md",
     "ECLERX/QIT TRADE.md",
-    "GRSE/WIT TRADE.md",
-    "COCHIN/WIT TRADE.md"
+    "GRSE/WIT TRADE.md"
   ]
 }
