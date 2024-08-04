@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARVIND FASHION/HTF TIME FRAME.md",
+                "file": "_daily_checklist/2024-08-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARVIND FASHION/HTF TIME FRAME.md",
+                "file": "_daily_checklist/2024-08-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARVIND FASHION/HTF TIME FRAME.md",
+                "file": "_daily_checklist/2024-08-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARVIND FASHION/HTF TIME FRAME.md"
+                "file": "_daily_checklist/2024-08-04.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "718e114f5a1b8df8",
   "lastOpenFiles": [
+    "ARVIND FASHION/HTF TIME FRAME.md",
     "_daily_checklist/2024-08-04.md",
     "INDHOTEL/WIT TRADE.md",
     "INDHOTEL/_attachments/Pasted image 20240804154407.png",
@@ -216,7 +217,6 @@
     "KISLOSIND/WITTRADE.md",
     "INGRENND/WIT TRADE.md",
     "INGRENNAD.md",
-    "ECLERX/QIT TRADE.md",
-    "GRSE/WIT TRADE.md"
+    "ECLERX/QIT TRADE.md"
   ]
 }
